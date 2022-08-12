@@ -1,5 +1,5 @@
 
-<div style="display:flex;justify-content:center;align-items:center">
+<div style="display:flex;justify-content:center;align-items:center; margin:auto;">
 <img src="https://i.ibb.co/wMjfjfc/avatar.jpg" alt="avatar" class="img-fluid" style="text-align:center;width:10em;">
  </div>
 <h1 align="center">Hi 👋, I'm Lukman Budiman</h1>
