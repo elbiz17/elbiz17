@@ -1,6 +1,4 @@
 
-<img src="https://i.ibb.co/wMjfjfc/avatar.jpg" alt="avatar"  style="width:15em;display: block; margin-left: auto; margin-right: auto;">
-
 <h1 align="center">Hi 👋, I'm Lukman Budiman</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
