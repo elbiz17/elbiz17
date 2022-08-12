@@ -4,7 +4,9 @@
 
 - 🌱 I’m currently learning **laravel 8 frameworks and react js**
 
-- 👨‍💻 All of my projects are available at [https://elbiz17.github.io/lukman-budiman-portfolio/](https://elbiz17.github.io/lukman-budiman-portfolio/)
+- 👨‍💻 All of my projects are available in  <a href= "https://elbiz17.github.io/lukman-budiman-portfolio/" target="_blank">Portfolio Website</a>
+
+
 
 - 📫 How to reach me **lukmanbudimantrue@gmail.com**
 
