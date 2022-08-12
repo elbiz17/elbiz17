@@ -1,7 +1,6 @@
 
-<div style="display:flex;justify-content:center;align-items:center; margin:auto;">
-<img src="https://i.ibb.co/wMjfjfc/avatar.jpg" alt="avatar" class="img-fluid" style="text-align:center;width:10em;">
- </div>
+<img src="https://i.ibb.co/wMjfjfc/avatar.jpg" alt="avatar"  style="width:15em;display: block; margin-left: auto; margin-right: auto;">
+
 <h1 align="center">Hi 👋, I'm Lukman Budiman</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
