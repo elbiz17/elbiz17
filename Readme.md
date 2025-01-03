@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Lukman Budiman</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **laravel 8 frameworks**
+- 🌱 I’m currently learning **React Native frameworks**
 
 - 👨‍💻 All of my projects are available in  <a href= "https://elbiz17.github.io/lukman-budiman-portfolio/" target="_blank">Portfolio Website</a>
 
