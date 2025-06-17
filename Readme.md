@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lukman Budiman</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-- 🌱 I'm currently learning **React Native frameworks**
+- 🌱 I'm currently learning **Express**
 
 - 👨‍💻 All of my projects are available in <a href="https://lukman-budiman.vercel.app/" target="_blank">Portfolio Website</a>
 
